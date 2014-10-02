@@ -32,3 +32,7 @@ c:\users\administrator\documents\visual studio 2013\Projects\SportsStore\SportsS
 c:\users\administrator\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 c:\users\administrator\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 c:\users\administrator\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Administrator\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
