@@ -19,3 +19,5 @@ c:\users\administrator\documents\visual studio 2013\Projects\SportsStore\SportsS
 c:\users\administrator\documents\visual studio 2013\Projects\SportsStore\SportsStore.UnitTest\obj\Debug\SportsStore.UnitTest.csprojResolveAssemblyReference.cache
 c:\users\administrator\documents\visual studio 2013\Projects\SportsStore\SportsStore.UnitTest\obj\Debug\SportsStore.UnitTest.dll
 c:\users\administrator\documents\visual studio 2013\Projects\SportsStore\SportsStore.UnitTest\obj\Debug\SportsStore.UnitTest.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\SportsStore\SportsStore.UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\SportsStore\SportsStore.UnitTest\bin\Debug\EntityFramework.xml
