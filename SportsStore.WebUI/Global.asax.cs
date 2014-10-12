@@ -6,6 +6,8 @@ using System.Web.Http;
 using System.Web.Mvc;
 using System.Web.Routing;
 using SportsStore.WebUI.Infrastructure;
+using SportsStore.Domain.Entities;
+using SportsStore.WebUI.Binders;
 
 namespace SportsStore.WebUI
 {
@@ -17,13 +19,13 @@ namespace SportsStore.WebUI
         {
             AreaRegistration.RegisterAllAreas();
 
-
-
             WebApiConfig.Register(GlobalConfiguration.Configuration);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
 
             ControllerBuilder.Current.SetControllerFactory(new NinjectControllerFactory());
+
+            ModelBinders.Binders.Add(typeof(Cart), new CartModelBinder());
         }
     }
 }
